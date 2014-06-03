@@ -4,7 +4,8 @@
 %   2) OPTIMIZATION: fminunc is used for Sensor Error Model (SEM) parameter estimation
 %   3) EVALUATION: ACC_meas are corrected by the estimated SEM, root mean squared error (RMSE) is computed
 % 
-% Author: M. Sipos, Department of Measurement, Faculty of Electrical Engineering, Czech Technical University in Prague, Czech Republic
+% Authors: M. Sipos, J. Rohac, J. Simanek, Department of Measurement, Faculty of Electrical Engineering, Czech Technical University in Prague, Czech Republic
+%   [1] Rohac, J.; Sipos, M.; Simanek, J.: Calibration of the Low-cost Triaxial Inertial Sensors
 
 clc; close all; clear all; warning off;
 fprintf('Triaxial accelerometer calibration based on FMINUNC function \n');

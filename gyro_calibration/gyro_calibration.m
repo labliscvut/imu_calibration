@@ -7,7 +7,7 @@
 %   4) CORRECTION OF THE MEASURED DATA: _rotation are corrected by the estimated SEM
 %   5) EVALUATION
 % 
-%   Author: M. Sipos, Department of Measurement, Faculty of Electrical Engineering, Czech Technical University in Prague, Czech Republic
+% Authors: M. Sipos, J. Rohac, J. Simanek, Department of Measurement, Faculty of Electrical Engineering, Czech Technical University in Prague, Czech Republic
 %   [1] Rohac, J.; Sipos, M.; Simanek, J.: Calibration of the Low-cost Triaxial Inertial Sensors
 
 
